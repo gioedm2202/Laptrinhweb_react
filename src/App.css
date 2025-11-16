@@ -7,18 +7,16 @@ body, html {
     height: 100%;
     font-family: 'Inter', sans-serif;
     color: #ffffff;
-    scroll-behavior: smooth; /* Giữ lại để cuộn mượt mà */
+    scroll-behavior: smooth;
 }
 
 body {
-    /* THAY ĐỔI QUAN TRỌNG: Thêm dấu '/' vào trước 'img' */
-    background-image: url('/img/z7167143882471_0bbd58ea2a2318182286146121888232.jpg');
+    background-image: url('/img/sunset_dark_theme.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
 }
 
-/* Lớp phủ mờ để văn bản dễ đọc hơn */
 .overlay {
     position: fixed;
     top: 0;

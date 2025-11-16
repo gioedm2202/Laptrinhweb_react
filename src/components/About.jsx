@@ -7,8 +7,9 @@ function About() {
       className="content-section" 
       style={{ backgroundColor: 'rgba(0,0,0,0.3)', borderRadius: '12px', paddingTop: '60px' }}
     >
-      {/* Đường dẫn ảnh đã được cập nhật */}
-      <img src="/img/IMG_4292.JPG" alt="Ảnh cá nhân của tôi" className="profile-pic" />
+      {/* */}
+
+      <img src="img/avt.JPG" alt="Ảnh cá nhân của tôi" className="profile-pic" />
 
       <h2>Về Tôi</h2>
       <p>
